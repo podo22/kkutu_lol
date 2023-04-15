@@ -1,13 +1,15 @@
 
 
 # KKUTU_LOL
-### 0. 사용한 언어, 라이브러리
+### 0. 사용
 100% Python
 - tkinter : GUI
 - requests : DD에서 데이터 받아오기
 - re : 정규표현식
 - time : 파일 생성 시 이름
 - pyinstaller : 실행 파일
+
+With Riot API DataDragon
 
 
 ### 1. 다운로드 방법
