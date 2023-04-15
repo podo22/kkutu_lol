@@ -16,7 +16,7 @@ With Riot API DataDragon
 우측 Releases 탭에서 최신버전 다운로드
 
 ### 2. 현재 버전
-version 1.0
+version 1.1
 
 ### 3. 나오는 파일
 프로그램을 실행시키고 기다리면 txt 파일이 두 개 생성
